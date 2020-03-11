@@ -1,0 +1,26 @@
+body {
+	margin: 0px;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+div {
+	width: 200px;
+	height: 500px;
+	background-color: #938688;
+}
+.item {
+	width: 200px;
+	height: 31.25px;
+	line-height: 31.25px;
+}
+.item:hover {
+	background-color: red;
+	color: #fff;
+}
